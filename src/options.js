@@ -1,7 +1,7 @@
 export default {
-  prefix: '',
+  prefix: 'Rp ',
   suffix: '',
-  thousands: ',',
-  decimal: '.',
-  precision: 2
+  thousands: '.',
+  decimal: ',',
+  precision: 0
 }
